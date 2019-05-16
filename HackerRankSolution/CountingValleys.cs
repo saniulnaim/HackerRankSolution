@@ -4,6 +4,7 @@ using System.Text;
 
 namespace HackerRankSolution
 {
+    //https://www.hackerrank.com/challenges/counting-valleys/problem
     public static class CountingValleys
     {
         public static int CountingValley(int n, string s)

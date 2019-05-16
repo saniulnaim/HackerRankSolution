@@ -6,7 +6,8 @@ namespace HackerRankSolution
     {
         static void Main(string[] args)
         {
-            //Interview Preparation KitWarm-up ChallengesCounting Valleyshhhh
+            //CountingValleys
+            //https://www.hackerrank.com/challenges/counting-valleys/problem
             Console.WriteLine(CountingValleys.CountingValley(10, "UDUUUDUDDD"));
 
             Console.ReadKey();
